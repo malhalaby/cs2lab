@@ -1,5 +1,8 @@
 #include <iostream>
-using namespace name
-{
+using namespace std;
 
-} // namespace name
+int main()
+{
+  cout << "Hello.\n";
+    return 0;
+}
